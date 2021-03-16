@@ -4,7 +4,7 @@
 
 
 <a href="https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/">
-  <img align="left" alt="Rohit's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Rohit's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/maverick1234567">
   <img align="left" alt="Rohit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 
 
-[![Linkedin: RohitThanvi](https://img.shields.io/badge/-DishantSingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)](https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)
-[![GitHub:DishantSingh](https://img.shields.io/github/followers/maverick1234567?label=follow&style=social)](https://github.com/dishantsingh1998)
+[![Linkedin: RohitThanvi](https://img.shields.io/badge/-RohitThanvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)](https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)
+[![GitHub:RohitThanvi](https://img.shields.io/github/followers/maverick1234567?label=follow&style=social)](https://github.com/maverick1234567)
 
 
 **Languages and Tools:**  
