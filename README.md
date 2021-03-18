@@ -23,15 +23,13 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python
-- 📫 How to reach me:rohit.thanvi22@gmail.com
+- 📫 How to reach me: rohit(https://mailto:rohit.thanvi22@gmail.com)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
--->
 
 
 
-[![Linkedin: RohitThanvi](https://img.shields.io/badge/-RohitThanvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)](https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)
-[![GitHub:RohitThanvi](https://img.shields.io/github/followers/maverick1234567?label=follow&style=social)](https://github.com/maverick1234567)
+[![Linkedin: RohitThanvi](https://img.shields.io/badge/-RohitThanvi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)](https://www.linkedin.com/in/rohit-kumar-thanvi-008659191/)erx1
 
 
 **Languages and Tools:**  
