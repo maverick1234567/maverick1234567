@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python
-- 📫 How to reach me: rohit(https://mailto:rohit.thanvi22@gmail.com)
+- 📫 How to reach me: [Rohit](https://mailto:rohit.thanvi22@gmail.com)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
 
