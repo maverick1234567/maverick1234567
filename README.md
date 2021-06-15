@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Django 
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Python
+- 💬 Ask me about Python,Html,CSS
 - 📫 How to reach me: [Rohit](https://mailto:rohit.thanvi22@gmail.com)
 - 😄 Pronouns: HE/HIM
 - ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
