@@ -19,13 +19,15 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Django 
-- 🌱 I’m currently learning Flutter
+- 🔭 I’m currently working on Data Analytics
+- 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Open Source Project
-- 💬 Ask me about Python,Html,CSS
+- 💬 Ask me about Python,Html,CSS,matplotlib, seaborn, EDA,Exploratory Data Analysis(Data Cleaning, 
+     Univariate and Bivariate Analysis),MySQL,Numpy,Pandas,Matplotlib,seaborn,Inferential Statistics,hypothesis testing
+     Jupyter,MS Excel
 - 📫 How to reach me: [Rohit](https://mailto:rohit.thanvi22@gmail.com)
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact:I am Competitive Gamer as well as Software Engineer
+- 😄 Pronouns: HE
+- ⚡ Fun fact:I am Competitive Gamer as well as Data Analyst
 
 
 
