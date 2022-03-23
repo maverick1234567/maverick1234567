@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
-<code><img height="35" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJupyter_logo.svg&psig=AOvVaw03_odLvBJ3Pxd2tx6znP7-&ust=1648130079573000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjT1ZGx3PYCFQAAAAAdAAAAABAH"></code> 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 
 
 <a href="https://github.com/maverick1234567">
