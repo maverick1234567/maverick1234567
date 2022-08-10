@@ -19,7 +19,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Data Analytics
+- 🔭 I’m currently working on Tableau
 - 🌱 I’m currently learning Machine learning
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about Python,Html,CSS,matplotlib, seaborn, EDA,Exploratory Data Analysis(Data Cleaning, 
